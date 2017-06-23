@@ -1,5 +1,5 @@
 # IMS
 An inventory management software
 
-Edited at 1109 JUNE 23
-====================
+Refined the texts in this file.
+@1115 JUNE23
