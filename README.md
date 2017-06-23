@@ -6,3 +6,6 @@ Refined the texts in this file.
 
 Edited with the second account.
 @1134 JUNE23
+
+Test with the desktop application on Mac to ensure the consistency of the whole project.
+@1146 JUNE23
